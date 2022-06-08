@@ -63,9 +63,8 @@ country.addEventListener('mouseout', function (event) {
 
     console.log(event.target.id);
 });
-//setTimeout(color_map, 200);
+setTimeout(color_map, 200);
 
-window.onLoad = color_map();
 
 function color_map() {
     if (deaths_checkbox.checked !== true) {
