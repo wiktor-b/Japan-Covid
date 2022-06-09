@@ -63,7 +63,7 @@ country.addEventListener('mouseout', function (event) {
 
     console.log(event.target.id);
 });
-setTimeout(color_map, 200);
+setTimeout(color_map, 700);
 
 
 function color_map() {
