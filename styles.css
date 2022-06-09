@@ -206,6 +206,6 @@ input:checked + .slider:before {
 .autor h1{
     text-align: right;
     top: -800px;
-    font-size: 90%;
+    font-size: 100%;
 }
 
