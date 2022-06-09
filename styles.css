@@ -213,6 +213,12 @@ input:checked + .slider:before {
     font-weight: bold;
     font-size: 200%;
 }
+
+.autor{
+    position: absolute;
+    top:0;
+    left:0;
+}
 .autor h1{
     text-align: right;
     top: 800px;
